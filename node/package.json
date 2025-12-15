@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "dev": "node index.js"
+    "dev": "node modules/fileSystem.js"
   },
   "dependencies": {
     "date-fns": "^4.1.0"
